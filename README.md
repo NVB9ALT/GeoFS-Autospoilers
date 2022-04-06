@@ -8,7 +8,7 @@ The code is provided in bookmarklet format. To install this addon, you follow th
 - Copy the code
 - Click the little star icon at the right end of your search bar to make a bookmark
 - Click "more"
-- Type "GeoFS Addon Chat" in the "Name" box
+- Type "GeoFS Autospoilers" in the "Name" box
 - Paste the code into the "URL" space
 - Click "save"
 - Click the bookmark when running GeoFS to run it.
