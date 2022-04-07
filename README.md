@@ -1,7 +1,7 @@
 # GeoFS-Autospoilers
 
 This is a remix of the spoiler arming addon originally made for Tampermonkey here: https://github.com/gefs-plugins/spoiler-arming
-It allows you to arm the spoilers by pressing Shift+ <spoilers key> so that they automatically deploy on touchdown.
+It allows you to arm the spoilers by pressing Shift+ *spoilers key* so that they automatically deploy on touchdown.
   
 The code is provided in bookmarklet format. To install this addon, you follow the following procedure:
 
