@@ -12,7 +12,6 @@ The code is provided in bookmarklet format. To install this addon, you follow th
 - Paste the code into the "URL" space
 - Click "save"
 - Click the bookmark when running GeoFS to run it.
-- Note: this is NOT compatible with other addons that use this style of UI (at least not yet).
 
 If the bookmarks bar is not visible when playing GeoFS, right click any bookmark and click "Show bookmarks bar" at the very bottom of the popup menu.
 
