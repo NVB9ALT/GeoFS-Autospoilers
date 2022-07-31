@@ -34,7 +34,7 @@
                             url: "https://raw.githubusercontent.com/Guy-Adler/GeoFSSpoilersArming/main/spoilersArm.png",
                             alignment: { x: "right", y: "bottom" },
                             size: { x: 100, y: 21 },
-                            position: { x: 20, y: 195 },
+                            position: { x: 20, y: 145 },
                             anchor: { x: 100, y: 0 },
                             rescale: !0,
                             rescalePosition: !0,
