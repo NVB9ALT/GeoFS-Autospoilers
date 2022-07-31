@@ -1,3 +1,4 @@
+function autospoilers() {
 !(function (e) {
     var o = setInterval(function () {
         window.geofs &&
@@ -56,3 +57,4 @@
             })());
     }, 100);
 })();
+}
