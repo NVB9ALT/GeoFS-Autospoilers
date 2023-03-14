@@ -1,3 +1,4 @@
+function autospoilers() {
 //Reproduced under the MIT license
 ui.notification.showOnce("Note: spoiler arming key has now changed to Z.")
 
@@ -49,3 +50,4 @@ setInterval(
         }
     },
 100)
++
