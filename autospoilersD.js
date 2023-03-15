@@ -50,4 +50,12 @@ setInterval(
         }
     },
 100)
-+
+
+setInterval(
+    function(){
+        if(["3292", "3054"].includes(geofs.aircraft.instance.id) && geofs.aircraft.instance.setup.instruments["spoilers"] === undefined){
+            geofs.aircraft.instance.setup.instruments["spoilers"] = "";
+            instruments.init(geofs.aircraft.instance.setup.instruments);
+        }
+    },
+500)
